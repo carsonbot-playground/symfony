@@ -1,2 +1,1 @@
-This is a simple playground for happy bots
-
+This is a playground for happy bots!
